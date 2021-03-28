@@ -1,4 +1,4 @@
-# Pergunta Horário ao Usuário
+# Insira Horário e Retorne uma Saudação ao Usuário
  Programa iniciante, que após o usuário inserir um valor inteiro, retorna uma mensagem de Bom dia, Boa tarde ou Boa noite.
 
 Faça um programa que pergunte a hora ao usuário e, baseando-se no horário
